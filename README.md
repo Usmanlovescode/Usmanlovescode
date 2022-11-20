@@ -1,4 +1,4 @@
-                                                              # Hi 👋 I'm Muhammad Usman. 
+<div align="center"># Hi 👋 I'm Muhammad Usman. </div> 
 
 #### Learn About Muhammad Usman ❤️
 
