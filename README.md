@@ -6,6 +6,14 @@
 
 <h3>💻   About Me :</h3>
 
+I am a Front End Developer & open source tech enthusiast 
+
+* I like to learn emerging technologies
+* Authoring and blogging about emerging technologies.
+* Share knowledge through meetups and twitter.
+ from Singapore.
+
+
 ### My Work Experience:
 ---
 
