@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋 I'm Muhammad Usman.</h1>
-### Learn About Muhammad Usman ❤️
+
+<h2 align="center">Learn About Muhammad Usman ❤️</h2>
 
 ### My Work Experience:
 ---
