@@ -1,5 +1,5 @@
-<p align="center">#Hi 👋 I'm Muhammad Usman. </p> 
-<h1 align="center">No_spaces_so_you_can_double_click_and_paste</h1>
+
+<h1 align="center">Hi 👋 I'm Muhammad Usman.</h1>
 #### Learn About Muhammad Usman ❤️
 
 ### My Work Experience:
