@@ -1,5 +1,6 @@
 
-###Hi 👋 I'm Muhammad Usman
+
+<h1 align="center">Hi 👋 I'm Muhammad Usman</h1>
 
 <h2 align="center">Learn About Muhammad Usman ❤️</h2>
 
